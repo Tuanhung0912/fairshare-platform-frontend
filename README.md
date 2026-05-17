@@ -43,13 +43,6 @@ This repository contains the React frontend for \*\*FairShare\*\*. It is designe
 \*(Installation steps, npm/yarn scripts, and configuration details will be documented here as the UI components are built.)\*
 
 
-
-\## 👨‍💻 Author
-
-\*\*Sown\*\* - \*Lead Frontend Developer\*
-
-
-
 \---
 
 \*Note: This is an initial commit. UI/UX designs and core components are currently in the planning phase and will be continuously updated.\*
